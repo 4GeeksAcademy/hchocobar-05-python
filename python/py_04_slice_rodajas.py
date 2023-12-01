@@ -1,13 +1,15 @@
 """
 Slicing operator
 Rodajas, rebanadas, slicing
+
 Sintaxis: cadena[position_start:position_end_less_one:step]
+
 """
 cadena = "01234567890"
 #           987654321
 # cadena = "012345678901234567890"
 
-# print(cadena)
+print(cadena)
 # print(cadena[1:3])
 # print(cadena[1:3:1])
 
@@ -23,4 +25,4 @@ cadena = "01234567890"
 # # Indice negativo -> recorre la cadena desde el fin hacia el inicio
 # print()
 # print(cadena[-1:-10:-2])
-# print(cadena[::-1])
+print(cadena[::-1])

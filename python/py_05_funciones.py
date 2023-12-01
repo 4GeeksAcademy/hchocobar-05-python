@@ -11,3 +11,17 @@ Funciones
  - Return / None
  - Alcance (scope) / global / cuidado: sombra
 """
+
+def my_function(dia, mensaje, name, exclamacion='Diviertete!'):
+    """
+    Ayuda para mi funcion de Argumentos y parametros
+      dia: str, un dia de la semana
+      mensaje: str, Un mensaje way
+      name: str, Nombre propio
+    """
+    print('hola', name, mensaje, 'Feliz', dia, exclamacion)
+
+
+my_function('viernes', name='Hector', mensaje='Bienvenido!', exclamacion='A dormir')
+
+

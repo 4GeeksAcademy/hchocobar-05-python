@@ -15,6 +15,25 @@ Identación y bloques
 """
 
 # Hola Mundo
-name = 'Hector'  # Variable string
-message = 'Bienvenido!' # Variable string
-# print('--- Hola', name, message)
+is_login = True
+is_admin = False
+
+if is_login:
+    pass
+else:
+    print("por favor, login")
+
+students = ['Andres', 'Alejandro', 'Daniel', 'Evelyn', 'Emiko', 'Guido', 'Leire', 
+           'Lorenzo', 'Lourdes', 'Majo', 'Merlina', 'Mike', 'Pau', 'Sara' ,'Yoel']
+
+
+palabra = 'palabra larga'
+
+# interables: cadenas, listas, tuplas, diccionarios, conjuntos
+""" for item in palabra:
+    print(item) """
+
+for item in range(10):
+    if item % 5 != 0:
+        break
+    print(item)

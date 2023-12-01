@@ -22,5 +22,27 @@ Tips diccionarios
 - operador in  # para verificar si una clave existe en un diccionario
 """
 
+students = ['Andres', 'Alejandro', 'Daniel', 'Evelyn', 'Emiko', 'Guido', 'Leire', 
+            'Lorenzo', 'Lourdes', 'Majo', 'Merlina', 'Mike', 'Pau', 'Sara' ,'Yoel']
 
+months = ('enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
+          'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'dicienbre')
 
+frutas = ['manzana', 'pera', 'uva', 'pera', 'sandia', 'manzana']
+
+frutas_set = set(frutas)
+frutas_category = list(frutas_set)
+
+person = {"first_name": 'Joe',
+          "last_name": "Doe",
+          'age': 25,
+          'is_admin': False,
+          "email": "joe.doe@domain.com"}
+
+print(students[-3])
+
+# person.first_name
+
+""" for clave, valor in person.items():
+  print(valor)
+ """
