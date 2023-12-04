@@ -10,3 +10,8 @@ person = {"first_name": 'Joe',
 
 # palabras reservadas de Python
 # métodos de colecciones
+
+# clases
+
+# tratamiento de errores
+# asignación multiple de variables
