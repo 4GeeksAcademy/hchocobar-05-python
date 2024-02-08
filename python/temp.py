@@ -8,3 +8,10 @@ person = {"first_name": 'Joe',
           "last_name": "Doe",
           "email": "joe.doe@domain.com"}
 
+# palabras reservadas de Python
+# métodos de colecciones
+
+# clases
+
+# tratamiento de errores
+# asignación multiple de variables
