@@ -9,6 +9,9 @@ Operadores
   - Relacionales: ==  !=  >  <  >=  <=
   - Lógicos: and  or  not
 
+Constantes Integradas:
+  - True False None
+
 Funciones integradas
   Salida de datos: print()
   Documentación oficial: https://docs.python.org/es/3.11/library/functions.html
