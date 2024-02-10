@@ -24,3 +24,14 @@ Identación y bloques
 name = 'Hector'  # Variable string
 message = 'Bienvenido!' # Variable string
 # print('--- Hola', name, message)
+number = 56
+result = number * 5
+# print(number, result)
+# print('Hola Mundo!', name, message, sep=' - ', end=' ********* ')
+# print('esta es un clase de Python', end='')
+# print(56)
+is_login = True
+is_admin = False
+
+print(type(is_login))
+

@@ -11,5 +11,7 @@ person = {"first_name": 'Joe',
 numbers = [10, 23, 8, 65, 34, 18, 22, 88, 70]
 
 
+names = ['Juan', 'Joe', 'Jimy', 'Juan', 'Jael', 'Juan']
+
 # tratamiento de errores
 # asignación multiple de variables

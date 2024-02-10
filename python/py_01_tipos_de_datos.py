@@ -9,8 +9,14 @@ Tipos de Datos
 
 type()
 """
+cadena = "Hola"
+saludo = "Hola Mundo, I'm Hector"
+parrafo = """Esto es un parrafo.
+Este es otro párrafo,
+Y es el ultimo renglo de otro 
+"""
 
-
-
-
+number = '5'
+number = 10
+print(type(number))
 
