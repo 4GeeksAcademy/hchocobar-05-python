@@ -7,14 +7,15 @@ cadena = "01234567890"
 #           987654321
 # cadena = "012345678901234567890"
 
-# print(cadena)
-# print(cadena[1:3])
+print(cadena)
+# print(cadena[:8])
+
 # print(cadena[1:3:1])
 
 # print(cadena[3:])
 # print(cadena[:3])
-# print(cadena[3:-2])  # Equivale a: cadena[3:9]
-# print(cadena[-3:4], 'algo')  # Equivale a: cadena[8:4]
+# print(cadena[3:-1])  # Equivale a: cadena[3:9]
+# print(cadena[-8:6], 'algo')  # Equivale a: cadena[8:4]
 # print(cadena[-10:8], 'otro algo')  # Equivale a: cadena[10:8]
 # print(cadena[::2])  # Saltando cada 2 elementos
 # print(cadena[1::2])

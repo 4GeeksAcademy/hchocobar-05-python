@@ -23,8 +23,8 @@ number = 5
 is_admin = True
 
 # iterables
-""" for letter in message:
-    print(letter) """
+for letter in message:
+    print(letter)
 
 for foo in range(0, 20, 1):
     if foo % 3 == 0:
