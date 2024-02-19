@@ -6,5 +6,7 @@ Dict Comprehension
 
 nueva_lista = [target for item in lista_anterior]
 nueva_lista = [target for item in <lista_anterior> if <condición>]
+
+Condicional one liner
 valor = verdadero if condicion else falso
 """
