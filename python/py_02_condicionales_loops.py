@@ -1,9 +1,9 @@
 """
-Condicionales
+Condicionales:
  - Estructura if-elif-else
  - Operadores lógicos: and  or  not
 
-Loops
+Loops:
  - while
  - for in 
   - iterables
@@ -17,4 +17,4 @@ Identación y bloques
 # Hola Mundo
 name = 'Hector'  # Variable string
 message = 'Bienvenido!' # Variable string
-# print('--- Hola', name, message)
+# print('Hola', name, message)
