@@ -10,6 +10,10 @@ Tipos de Datos
 type()
 """
 
+# Hola Mundo
+name = 'Hector'  # Variable string
+number = 125  # Variable string
+print(type(name), type(number), type([]))
 
 
 
