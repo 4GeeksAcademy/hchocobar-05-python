@@ -1,5 +1,5 @@
-students = ['Aitor', 'Alfredo', 'Ary', 'Annie', 'Carlos', 'don Beta', 'Davide', 
-           'Fran', 'Irene', 'Matteo B', 'Matteo S', 'Mercedes', 'Pedro']
+students = ['Agustin', 'Alejandro', 'Anais', 'Bilbo', 'David', 'Gabriela', 'Fidel', 
+           'Mar', 'Marco', 'Matias', 'Mery', 'Pablo', 'Pau', 'Robert', 'Victoria', 'Eduardo']
 
 months = ('enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
           'julio', 'agosto', 'setiembre', 'octubre', 'noviembre', 'dicienbre')
