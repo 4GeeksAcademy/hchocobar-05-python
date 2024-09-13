@@ -15,7 +15,7 @@ Métodos comunes de las colecciones
   - .append()
   - .sort()
   - .reverse()
-  - - Métodos de string: https://docs.python.org/3/library/stdtypes.html#string-methods
+  - Métodos de string: https://docs.python.org/3/library/stdtypes.html#string-methods
   - Métodos de listas: https://docs.python.org/es/3/tutorial/datastructures.html#more-on-lists 
   - Métodos de diccionarios: https://docs.python.org/3/library/stdtypes.html?highlight=dict%20method#mapping-types-dict
 
