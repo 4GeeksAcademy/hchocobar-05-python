@@ -7,7 +7,7 @@ cadena = "01234567890"
 #           987654321
 # cadena = "012345678901234567890"
 
-# print(cadena)
+print(cadena)
 # print(cadena[1:3])
 # print(cadena[1:3:1])
 

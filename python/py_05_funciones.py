@@ -11,3 +11,9 @@ Funciones
  - Return / None
  - Alcance (scope) / global / cuidado: sombra
 """
+def saludar(name, saludo='Bienvenido'):
+    print(saludo, name)
+    return saludo + name
+
+dato = saludar('Héctor')
+print('Dato es:', dato)

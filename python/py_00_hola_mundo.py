@@ -30,6 +30,9 @@ Identación y bloques:
 """
 
 # Hola Mundo
+saludo = 'hola'
 name = 'Hector'  # Variable string
 message = 'Bienvenido!' # Variable string
-# print('Hola', name, message)
+print(saludo, name, message, sep=' - ', end='  *******   ')
+print('segunda linea', end=' salto')
+

@@ -9,8 +9,7 @@ Tipos de Datos
 
 type()
 """
+dato = True
 
-
-
-
-
+print(dato)
+print(type(dato))
