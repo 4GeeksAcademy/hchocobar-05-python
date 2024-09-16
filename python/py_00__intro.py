@@ -15,3 +15,24 @@ Porque Python
 • Es muy expresivo: un programa Python ocupa mucho menos que su equivalente en otros lenguajes.
 
 """
+
+# Diccionarios
+usuarios = {'nombre': 'Jane Doe',
+            'edad': 23,
+            'curso': 'Curso de Python',
+            'skills': {'programación': True,
+                       'base_de_datos': False},
+            'niveles': ['básico', 'intermedio']}
+# Diccionarios
+usuario = {
+    'nombre': 'Jane Doe',
+    'edad': 23,
+    'curso': 'Curso de Python',
+    'skills': {
+        'programación': True,
+        'base_de_datos': False
+    },
+    'niveles': [
+        'básico', 'intermedio'
+    ]
+}

@@ -11,3 +11,8 @@ Funciones
  - Return / None
  - Alcance (scope) / global / cuidado: sombra
 """
+def saludo(saludo='Buenas', name='Hector', tiempo='mañana'):
+    print(saludo, tiempo, name)
+    return
+
+saludo(tiempo='noches')

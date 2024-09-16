@@ -7,10 +7,11 @@ Tipos de Datos
 - Boleanos: True, False
 - None
 
-type()
+print() type()
 """
 
-
-
-
-
+name = 'Hector'  # Variable string
+message = 'Bienvenido!' # Variable string
+number = 25.0
+print(None)
+print(type(None))
