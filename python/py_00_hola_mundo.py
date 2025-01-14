@@ -33,3 +33,6 @@ Identación y bloques:
 name = 'Hector'  # Variable string
 message = 'Bienvenido!' # Variable string
 # print('Hola', name, message)
+
+print(message, name)
+print('Hola')

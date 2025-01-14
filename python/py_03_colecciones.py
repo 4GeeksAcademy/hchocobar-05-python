@@ -1,8 +1,8 @@
 """
 Colecciones
-- Listas, list: coleccion ordenada y mutable de elementos separados por comas entre corchetes []
-- Tuplas, tuple: colección ordenadas e inmutable de elementos separados por comas entre paréntesis ()
-- Conjuntos, set: colección no ordenada y de elementos distintos separados por comas entre llaves {}
+- Listas,    list:    coleccion ordenada y mutable de elementos separados por comas entre corchetes []
+- Tuplas,    tuple:   colección ordenada e inmutable de elementos separados por comas entre paréntesis ()
+- Conjuntos,    set:  colección no ordenada y de elementos distintos separados por comas entre llaves {}
 - Diccionarios, dict: colección indexada de elementos pares 'clave': valor y mutables separados por comas entre llaves {}
 
 Funciones comunes de las colecciones
@@ -24,3 +24,13 @@ Tips diccionarios
   - método .items()  # devuelve el par 'clave': valor y nos permite desempaquetar
   - operador in  # para verificar si una clave existe en un diccionario
 """
+
+
+data = set()
+other_data = {}
+
+person = {"first_name": 'Joe',
+          "last_name": "Doe",
+          "email": "joe.doe@domain.com"}
+
+print(person['email'].upper().replace('@', ' @ '))

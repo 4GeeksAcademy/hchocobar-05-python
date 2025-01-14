@@ -11,3 +11,13 @@ Funciones
  - Return / None
  - Alcance (scope) / global / cuidado: sombra
 """
+
+def welcome(saludo, name):
+    print(saludo, name)
+    name = 'Alvaro'
+    print(name)
+
+
+name = 'Hector'
+welcome('hola', name)
+print(name)

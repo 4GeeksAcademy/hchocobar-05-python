@@ -10,7 +10,14 @@ Tipos de Datos
 type()
 """
 
+parrafo = """
+Hola, soy un párafo
 
+     y este es mi segunda linea
+"""
+
+number = 5.45
+print(type(number))
 
 
 

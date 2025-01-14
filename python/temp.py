@@ -13,3 +13,8 @@ numbers = [10, 23, 8, 65, 34, 18, 22, 88, 70]
 
 # tratamiento de errores
 # asignación multiple de variables
+
+categories = {'react', 'python', 'js', 'html', 'react', 'js'}
+print(categories)
+
+
