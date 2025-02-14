@@ -9,7 +9,8 @@ Tipos de Datos
 
 type()
 """
-
+data = None
+print(type(data))
 
 
 

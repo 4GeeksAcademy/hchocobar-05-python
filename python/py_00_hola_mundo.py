@@ -31,5 +31,7 @@ Identación y bloques:
 
 # Hola Mundo
 name = 'Hector'  # Variable string
-message = 'Bienvenido!' # Variable string
-# print('Hola', name, message)
+message = 'Bienvenido!'  # Variable string
+number = 10
+is_active = False
+print(is_active, name, message)
