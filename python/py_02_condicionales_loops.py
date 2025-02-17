@@ -19,21 +19,25 @@ name = 'Hector'  # Variable string
 message = 'Bienvenido!' # Variable string
 # print('Hola', name, message)
 
-"""
+
 number = 7
 year = 2025
 
 condition = number < 5 or year == 2025
-if number > 10 and year == 2025:
-    result = number * 2
-    print('mayor que 10', result)
-elif condition:
-    result = number * 5
-    print('menor que 5', result)
-else:
+
+def my_funtion():
+    if number > 10 and year == 2025:
+        result = number * 2
+        print('mayor que 10', result)
+        return True
+    if condition:
+        result = number * 5
+        print('menor que 5', result)
+        return False
     result = number + 10
     print('entre 5 y 10', result)
-"""
+    return None
+
 """
 for leter in message:
   print(leter)
@@ -53,4 +57,6 @@ for year in years:
     if year == 2026:
         break
     print(year)
-  
+
+
+if 
