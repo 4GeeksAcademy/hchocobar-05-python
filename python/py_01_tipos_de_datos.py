@@ -9,8 +9,7 @@ Tipos de Datos
 
 type()
 """
+edad = 10
+año = 2010
 
-
-
-
-
+print(f'Juan cumplio {edad * 2} el año {año}')

@@ -24,3 +24,22 @@ Tips diccionarios
   - método .items()  # devuelve el par 'clave': valor y nos permite desempaquetar
   - operador in  # para verificar si una clave existe en un diccionario
 """
+""" 
+numbers = [10, 23, 8, 65, 34, 18, 22, 88, 70]
+conjunto = {10, 23, 8, 10, 23, 10, 22, 8, 70}
+print(conjunto)
+print(conjunto)
+print(conjunto)
+studients = {}
+print(studients, type(studients)) 
+"""
+
+person = {'first_name': 'Joe',
+          'last_name': "Doe",
+          "email": "joe.doe@domain.com"}
+
+print(person.get('surename', 'error en la consulta'))
+print(person['surname'])
+numbers = [10, 23, 8, 65, 34, 18, 22, 88, 70]
+if 8 in numbers:
+    print('tengo 25')
