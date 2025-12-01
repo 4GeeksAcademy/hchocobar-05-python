@@ -11,3 +11,10 @@ Funciones
  - Return / None
  - Alcance (scope) / global / cuidado: sombra
 """
+def saludo(name='Héctor', text='Hola'):
+    result = f'{text} {name}, este es el saludo'
+    return result
+
+
+foo = saludo()
+print(foo)

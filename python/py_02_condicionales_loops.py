@@ -14,7 +14,26 @@ Identación y bloques
   - pass
 """
 
-# Hola Mundo
-name = 'Hector'  # Variable string
-message = 'Bienvenido!' # Variable string
-# print('Hola', name, message)
+""" 
+edad = 10
+if edad < 20:
+    print('la edad es menor a 20')
+    edad += 2
+else:
+    print('mayor de 30')
+"""
+numbers = [10, 23, 8, 65, 34, 18, 22, 88, 70]
+cadena = 'Condicionales'
+
+for number in numbers:
+    if number % 2 == 0:
+      # print(number)
+      pass
+
+for letra in cadena:
+    # print(letra)
+    pass
+
+# range(start, stop - 1, step)
+for number in range(len(numbers)):
+    print(number)
