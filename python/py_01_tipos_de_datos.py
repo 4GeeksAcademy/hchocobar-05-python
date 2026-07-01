@@ -10,7 +10,8 @@ Tipos de Datos
 type()
 """
 
+variable = '2'
 
-
+print(variable, type(variable))
 
 

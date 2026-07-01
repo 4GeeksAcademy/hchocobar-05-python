@@ -4,3 +4,13 @@
   2. Literales de cadena formateados: f-strings: https://docs.python.org/es/3/tutorial/inputoutput.html#formatted-string-literals.
   3. Viejo formateo de cadenas: %: https://docs.python.org/es/3/tutorial/inputoutput.html#old-string-formatting
 """
+
+welcome = 'Bienvenido'
+dia = 1
+mes = 'Julio'
+
+saludo = f"""hola, {welcome} Héctor.
+Hoy es {dia} de {mes}"""
+
+
+print(saludo)

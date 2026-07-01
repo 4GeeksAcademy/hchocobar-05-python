@@ -1,3 +1,5 @@
+# Comentario de una línea
+
 """
 Porque Python
 1989 - Guido Van Rossum
@@ -15,3 +17,4 @@ Porque Python
 • Es muy expresivo: un programa Python ocupa mucho menos que su equivalente en otros lenguajes.
 
 """
+print('hola mundo')
