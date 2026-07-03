@@ -15,7 +15,7 @@ Identación y bloques
 """
 
 # Hola Mundo
-""" name = 'Hector'  # Variable string
+name = 'Hector'  # Variable string
 message = 'Bienvenido!' # Variable string
 # print('Hola', name, message)
 
@@ -34,7 +34,7 @@ while age > 30:
 
 print('se terminó el while')
 
-"""
+
 
 """ 
 lista = ['lunes', 'martes', 'miercoles', 'jueves', 'viernes']
