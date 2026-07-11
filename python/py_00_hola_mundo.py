@@ -10,6 +10,7 @@ Operadores
   - Relacionales: ==  !=  >  <  >=  <=
   - Lógicos: and  or  not
   - String: + (concatenación) * (repetición)
+  - in is 
 
 Palabras claves o reservadas:
   - Documentación: https://docs.python.org/es/3/reference/lexical_analysis.html#keywords
@@ -31,5 +32,6 @@ Identación y bloques:
 
 # Hola Mundo
 name = 'Hector'  # Variable string
-message = 'Bienvenido!' # Variable string
-# print('Hola', name, message)
+message = 'Bienvenido!'  # Variable string
+print('Hola', name, message, sep='-')
+print('Segunda línea')
