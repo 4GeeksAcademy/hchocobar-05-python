@@ -1,0 +1,26 @@
+isbn,title,genre,price,stock,status
+978-0-06-112008-4,To Kill a Mockingbird,fiction,12.99,5,available
+978-0-7432-7356-5,The Great Gatsby,fiction,10.50,3,available
+978-0-14-028329-7,Of Mice and Men,fiction,9.99,0,out_of_stock
+978-0-39-474673-7,,non-fiction,24.99,2,available
+978-0-06-093546-9,Thinking Fast and Slow,non-fiction,18.00,7,available
+978-0-14-303943-3,The Odyssey,fiction,11.25,1,available
+978-0-19-953556-4,Oxford English Dictionary,reference,45.00,1,available
+978-1-40-881274-1,Harry Potter 1,children,14.99,12,available
+978-1-40-881275-8,Harry Potter 2,children,14.99,8,available
+978-0-14-028726-7,Animal Farm,fiction,8.50,4,available
+978-0-14-044913-6,The Alchemist,fiction,-3.00,2,available
+978-0-374-52804-1,Sapiens,non-fiction,19.99,0,out_of_stock
+978-0-06-192028-5,Quiet,non-fiction,16.50,5,available
+978-0-385-33348-1,The Giver,children,11.00,6,available
+978-0-06-093548-3,Atomic Habits,non_fiction,17.99,10,available
+978-0-7432-7357-2,1984,fiction,10.00,3,damaged
+978-0-14-028727-4,Lord of the Flies,,9.25,2,available
+978-0-374-52805-8,Educated,non-fiction,20.00,4,available
+978-0-316-76948-0,The Catcher in the Rye,fiction,10.75,1,available
+978-1-50-117606-0,Dune,fiction,15.00,9,available
+978-0-06-112009-1,Brave New World,fiction,11.50,2,available
+978-0-14-028728-1,The Road,fiction,12.00,0,out_of_stock
+978-0-375-70737-9,The Kite Runner,fiction,13.50,5,available
+978-0-06-093547-6,Outliers,non-fiction,,3,available
+978-0-385-47423-1,Ender's Game,comics,13.00,2,available
