@@ -19,9 +19,10 @@ Identación y bloques
 # message = 'Bienvenido!' # Variable string
 # print('Hola', name, message)
 
-"""
+
+
 age = 25
-if age >= 18:
+if age >= 18 and age < 50:
     print('el doble de la edad es', age * 2, end='---')
     print('mayor de edad')
 elif age >= 16:
@@ -29,7 +30,7 @@ elif age >= 16:
 else:
     print('MENOR DE 16')
 
-print('fuera del condicional') """
+print('fuera del condicional')
 
 # PEP8, antes y despues de todo operador, escribir un espacio en blanco
 cadena = 'Hola Mundo'
@@ -43,7 +44,22 @@ print()
 """
 
 # range(inicio=0, fin-1, salto=1)
+"""
 for number in range(2, 20, 2):
-    print(number, end=' - ')
+    print(number)
 print()
+"""
+age = 9
 
+""" 
+while age <= 18:
+    print(age)
+    age+=2
+"""
+while age <= 19:
+    age += 1
+    if age % 2 == 0:
+        continue
+    print(age)
+    # if age >= 19:
+    #    break
