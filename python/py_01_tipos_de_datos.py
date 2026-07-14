@@ -9,7 +9,8 @@ Tipos de Datos
 
 type()
 """
-
+variable = 22 % 5
+print(variable, type(variable))
 
 
 
