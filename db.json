@@ -1,0 +1,32 @@
+{
+  "_default": {
+    "1": {
+      "type": "apple",
+      "count": 7
+    },
+    "2": {
+      "type": "manzana",
+      "count": 15
+    },
+    "3": {
+      "type": "pera",
+      "count": 35
+    },
+    "4": {
+      "type": "mandarina",
+      "count": 100
+    },
+    "5": {
+      "type": "aguacate",
+      "count": 25
+    },
+    "6": {
+      "type": "uva",
+      "count": 125
+    },
+    "7": {
+      "type": "nuez",
+      "count": 1025
+    }
+  }
+}
